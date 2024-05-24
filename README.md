@@ -1,4 +1,4 @@
-# Llama3-SFT
+# Llama3-ASFT
 Adaptive Supervised FineTuning with Llama-3
 
 ![image](https://github.com/fangyuan-ksgk/llama3-sft/assets/66006349/c0979819-796d-4d7e-af5f-56e545dca993)
